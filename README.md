@@ -5,8 +5,6 @@
  3. change the direction    
  4. a 4 7-segments display to show the time    
  5. lcd to show the speed and direction  
-# The Complete Step-by-step Software Programming Process is on youtube on a Project-based-Learning Methodology
-# https://www.youtube.com/channel/UCS7l0Jct5c_6mV-hn_e6lhA
  # System Flow-Chart
  ![FanCtrl System Flow-chart](https://user-images.githubusercontent.com/34573523/79597656-f6373980-80e2-11ea-8fc6-cbffc67236fa.png)
  # System Electronic Circuit  
